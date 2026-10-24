@@ -1,6 +1,6 @@
 module forgejo.org
 
-go 1.26.0
+go 1.26.10
 
 toolchain go1.27.3
 
@@ -28,7 +28,7 @@ require (
 	github.com/alecthomas/chroma/v2 v2.27.0
 	github.com/blakesmith/ar v0.0.0-20190502131153-809d4375e1fb
 	github.com/blevesearch/bleve/v2 v2.6.1
-	github.com/buildkite/terminal-to-html/v3 v3.17.1
+	github.com/buildkite/terminal-to-html/v3 v3.17.3
 	github.com/caddyserver/certmagic v0.25.6
 	github.com/chi-middleware/proxy v1.1.1
 	github.com/djherbis/buffer v1.2.0
